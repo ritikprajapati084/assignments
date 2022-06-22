@@ -16,3 +16,16 @@ After Installing  click on launch  Image : https://www.simplilearn.com/ice9/free
 end
 
 
+Maven project in eclipse :
+step 1 : Create a new Maven project in Eclipse.
+From the File menu, choose New, and then choose Project.
+In the New Project window, choose Maven Project.
+In the New Maven Project window, choose Create a simple project, and leave other default selections.
+In the New Maven Project, Configure project windows, type the following Artifact information:
+Group Id: doc-examples
+Artifact Id: lambda-java-example
+Version: 0.0.1-SNAPSHOT
+Packaging: jar
+Name: lambda-java-example
+images :https://www.simplilearn.com/tutorials/maven-tutorial/maven-project-in-eclipse
+click Finish
